@@ -35,12 +35,12 @@ const config: GatsbyConfig = {
         ],
         externalLinks: [
           {
-            name: `Twitter`,
-            url: `https://twitter.com/lekoarts_de`,
+            name: `LinkedIn`,
+            url: `https://linkedin.com/in/dinika-saxena`,
           },
           {
             name: `Homepage`,
-            url: `https://www.lekoarts.de?utm_source=minimal-blog&utm_medium=Starter`,
+            url: `https://dinika.greyllama.cc/`,
           },
         ],
       },
