@@ -5,11 +5,11 @@ const shouldAnalyseBundle = process.env.ANALYSE_BUNDLE
 
 const config: GatsbyConfig = {
   siteMetadata: {
-    siteTitle: `Blog`,
-    siteTitleAlt: `Dinika's Blog`,
-    siteHeadline: `Dinika's Blog`,
-    siteUrl: `https://dinika.greyllama.cc/blog`,
-    siteDescription: `Dinika's blog`,
+    siteTitle: `Musings`,
+    siteTitleAlt: `Musings`,
+    siteHeadline: `Dinika's musings`,
+    siteUrl: `https://blog.dinika.greyllama.cc`,
+    siteDescription: `Dinika's musings`,
     siteImage: `/banner.jpg`,
     siteLanguage: `en`,
     author: `Dinika`,
@@ -22,7 +22,7 @@ const config: GatsbyConfig = {
       options: {
         navigation: [
           {
-            title: `Blog`,
+            title: `Blog Posts`,
             slug: `/blog`,
           },
           {
