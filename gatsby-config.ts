@@ -32,6 +32,10 @@ const config: GatsbyConfig = {
         ],
         externalLinks: [
           {
+            name: `Old blog`,
+            url: `https://dinikasaxena.wordpress.com/`,
+          },
+          {
             name: `LinkedIn`,
             url: `https://linkedin.com/in/dinika-saxena`,
           },
